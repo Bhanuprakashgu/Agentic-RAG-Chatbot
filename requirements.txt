@@ -1,0 +1,12 @@
+flask
+flask-cors
+faiss-cpu
+PyPDF2
+python-docx
+python-pptx
+pandas
+llama-cpp-python
+werkzeug
+sentence-transformers
+
+

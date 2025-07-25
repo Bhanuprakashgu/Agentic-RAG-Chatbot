@@ -1,0 +1,23 @@
+Date,Product,Sales_Rep,Customer,Revenue,Units_Sold,Region,Customer_Type
+2024-01-15,Analytics Pro,John Smith,TechCorp Inc,25000,5,North America,Enterprise
+2024-01-18,Mobile App,Sarah Johnson,StartupXYZ,8000,2,North America,Small Business
+2024-01-22,API Platform,Mike Chen,DataSolutions Ltd,45000,3,Europe,Enterprise
+2024-01-25,Analytics Pro,Lisa Brown,LocalBiz Co,12000,3,North America,Mid-Market
+2024-02-01,Mobile App,John Smith,InnovateNow,15000,4,North America,Mid-Market
+2024-02-05,API Platform,Sarah Johnson,GlobalTech,60000,4,Asia,Enterprise
+2024-02-08,Analytics Pro,Mike Chen,SmallCorp,6000,2,Europe,Small Business
+2024-02-12,Mobile App,Lisa Brown,MediumBiz Inc,18000,5,North America,Mid-Market
+2024-02-15,API Platform,John Smith,BigEnterprise,80000,6,North America,Enterprise
+2024-02-18,Analytics Pro,Sarah Johnson,TechStartup,9000,3,Europe,Small Business
+2024-02-22,Mobile App,Mike Chen,RegionalCorp,22000,6,Asia,Mid-Market
+2024-02-25,API Platform,Lisa Brown,MegaCorp,95000,7,North America,Enterprise
+2024-03-01,Analytics Pro,John Smith,LocalTech,14000,4,North America,Mid-Market
+2024-03-05,Mobile App,Sarah Johnson,StartupABC,7000,2,Europe,Small Business
+2024-03-08,API Platform,Mike Chen,DataCorp,55000,4,Asia,Enterprise
+2024-03-12,Analytics Pro,Lisa Brown,BusinessCo,16000,5,North America,Mid-Market
+2024-03-15,Mobile App,John Smith,TechSolutions,11000,3,North America,Small Business
+2024-03-18,API Platform,Sarah Johnson,EnterpriseXYZ,70000,5,Europe,Enterprise
+2024-03-22,Analytics Pro,Mike Chen,MidSizeCorp,19000,6,Asia,Mid-Market
+2024-03-25,Mobile App,Lisa Brown,SmallTech,8500,3,North America,Small Business
+2024-03-28,API Platform,John Smith,GlobalCorp,85000,6,North America,Enterprise
+
